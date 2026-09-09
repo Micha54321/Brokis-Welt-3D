@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "Broki spelled correctly in UI",
+    "Mouse drag orbits character; view remains on release and rear camera resumes while walking",
+    "All ten scattered coins reachable from dock and at least two units off the path",
+    "Tenth pickup triggers one finite firework; ninth does not; particles stop after celebration",
+    "No JavaScript or shader errors",
+    "Standalone offline game starts; jump and landing work; ten coins exist; no renderer errors."
+  ],
+  "errors": []
+}
